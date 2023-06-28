@@ -11,6 +11,7 @@ class Uha
   System.out.println(x);
   int i = new Uha().main1(101);
   System.out.println(i);
+  System.out.println("SANDY");
   return 0;
  }
  public static void main(String[] args)
